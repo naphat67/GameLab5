@@ -1,0 +1,6 @@
+.godot/
+export/
+*.tmp
+*.blend1
+.DS_Store
+Thumbs.db
